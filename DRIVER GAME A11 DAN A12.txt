@@ -1,0 +1,12 @@
+String Driver Game Android 11
+game_driver_opt_out_apps "1"
+game_driver_opt_in_apps "(isi seusai package name game)"
+
+String Driver Game Android 12
+updatable_driver_all_apps "1"
+updatable_driver_production_opt_out_apps "1"
+updatable_driver_production_opt_in_apps "(isi sesuai dengan Package Name game)"
+
+
+NOTE :
+Saya Sarankan Untuk Package Name Viewernya Menggunakan App Package Name Viewer Dari Play Store
